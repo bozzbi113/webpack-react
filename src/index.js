@@ -5,6 +5,7 @@ const App = () => {
   let a;
   let b;
   let d3;
+  let d4;
   return <div>Hello2 React!</div>;
 };
 
